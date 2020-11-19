@@ -1,1 +1,2 @@
-# Housing_Prices-Advance_Regression
+# Housing_Prices-Advance_Regression Techniques
+Housing Price: Advanced Regression Techniques is one of the most popular data-sets on Kaggle with over 5000 participation’s. It is an expanded version of the often cited Boston Housing dataset. In this project I will analyse what influences the sale price of a house and aim to predict the correct SalePrice of the respective house. Our aim will be to achieve the lowest possible RMSE score and best possible rank.
